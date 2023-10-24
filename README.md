@@ -1,3 +1,6 @@
+![image](https://github.com/tejayy/RandomeJokeGenerator/assets/117623822/a8e33cea-3582-4bef-ba2e-e130583317d0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
